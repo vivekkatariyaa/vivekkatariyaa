@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-EA4335?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://in.linkedin.com/in/vivek-nagar-47b647220"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mail.viveknagar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/vivekkatariyaa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -128,6 +134,15 @@ Hands-on agent builds: ReAct, code interpreter, tool-using agents and more.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekkatariyaa/vivekkatariyaa/output/github-snake.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/vivekkatariyaa/vivekkatariyaa/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/vivek-nagar-47b647220"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Nagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mail.viveknagar@gmail.com"><img src="https://img.shields.io/badge/Email-mail.viveknagar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
