@@ -118,10 +118,6 @@ Hands-on agent builds: ReAct, code interpreter, tool-using agents and more.
   <img src="https://streak-stats.demolab.com?user=vivekkatariyaa&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekkatariyaa&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
