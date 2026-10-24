@@ -5,20 +5,22 @@
 
 <p align="center">
   <a href="https://github.com/vivekkatariyaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Building+AI+Agents+with+LangGraph+%F0%9F%A4%96;RAG+pipelines+that+actually+ship+%F0%9F%93%9A;Flutter+apps+for+Android+%26+iOS+%F0%9F%93%B1;Exploring+Gemini+%E2%9C%A8;See+you+at+Google+DevFest!+%F0%9F%8E%89" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Building+AI+Agents+with+LangGraph+%F0%9F%A4%96;RAG+pipelines+that+actually+ship+%F0%9F%93%9A;Flutter+apps+for+Android+%26+iOS+%F0%9F%93%B1;Exploring+Gemini+%E2%9C%A8;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekkatariyaa&label=Profile%20views&color=4285F4&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google-DevFest%202026-34A853?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-EA4335?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/vivek-nagar-47b647220"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mail.viveknagar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vivekkatariyaa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  </picture>
 </p>
 
 ---
@@ -36,7 +38,7 @@ class Vivek:
     fun_fact  = "Ships to prod faster than the coffee cools ☕"
 
     def say_hi(self):
-        return "Let's talk AI at DevFest! 🚀"
+        return "Always happy to talk AI & build together! 🚀"
 ```
 
 ---
@@ -148,7 +150,7 @@ Hands-on agent builds: ReAct, code interpreter, tool-using agents and more.
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, drop a star. See you at DevFest! ⭐</b>
+  <b>⭐ If you like my work, drop a star! ⭐</b>
 </p>
 
 <p align="center">
